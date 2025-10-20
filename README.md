@@ -49,10 +49,10 @@ You can click the Preview link to take a look at your changes.
 ---
 
 ### 🧬 My stats:
-![Tejesh Naidu's Stats](https://github-readme-stats.vercel.app/api?username=TejeshNaiduKona&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
-![Tejesh Naidu's Streak](https://github-readme-streak-stats.herokuapp.com/?user=TejeshNaiduKona&theme=midnight-purple&hide_border=true)
 
+![Tejesh Naidu's Streak](https://github-readme-streak-stats.herokuapp.com/?user=TejeshNaiduKona&theme=midnight-purple&hide_border=true)
 ![Tejesh Naidu's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TejeshNaiduKona&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)
+![Tejesh Naidu's Stats](https://github-readme-stats.vercel.app/api?username=TejeshNaiduKona&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
 
 ---
 
