@@ -47,7 +47,6 @@ You can click the Preview link to take a look at your changes.
 <br/>
 
 ---
-
 ### 🧬 My stats:
 
 ![Tejesh Naidu's Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=TejeshNaiduKona&show_icons=true&theme=midnight-purple&locale=en&layout=compact) <br>
