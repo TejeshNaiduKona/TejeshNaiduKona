@@ -2,7 +2,7 @@
     <p>hello! 👋</p>
   </samp>
 </p>
- 
+
 ---
 
 👋 Hi, I'm @TejeshNaiduKona, a computer science student passionate about exploring innovative solutions.
