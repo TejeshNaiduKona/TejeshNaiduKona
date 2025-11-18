@@ -54,7 +54,7 @@ You can click the Preview link to take a look at your changes.
 ![Tejesh Naidu's Stats](https://github-readme-stats.vercel.app/api?username=TejeshNaiduKona&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
 
 ---
- 
+
 ### 📬️ Let's connect::
 
 <a href="https://www.linkedin.com/in/ktejeshnaidu/" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" alt="ktejeshnaidu" height="40" width="40"></a>
