@@ -9,7 +9,7 @@
 - 👀 I'm interested in algorithms and software development.
 - 🌱 I'm currently Working on Machine Learning Models.
 - 💞️ I'm looking to collaborate on exciting coding projects that challenge and inspire.
-
+ 
 <!---
 TejeshNaiduKona/TejeshNaiduKona is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
