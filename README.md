@@ -37,7 +37,7 @@ You can click the Preview link to take a look at your changes.
   <img align="left" style="padding-right: 10px; width: 2rem !important" alt="Android" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg"/>
   <img align="left" style="padding-right: 10px; width: 2rem !important" alt="Kotlin" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg"/>
   
-<!--   <img align="left" style="padding-right: 10px; width: 2rem !important" alt="NodeJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/> -->
+<!--   <img align="left" style="padding-right: 10px; width: 2rem !important" alt="NodeJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/> --> 
 <!--   <img align="left" style="padding-right: 10px; width: 2rem !important" alt="VS Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/> -->
 <!--   <img align="left" style="padding-right: 10px; width: 2rem !important" alt="Jira" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg"/> -->
   <img align="left" style="padding-right: 10px; width: 2rem !important" alt="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
