@@ -30,6 +30,7 @@ const Tejesh = {
 ```
 
 ## Tech Stack
+<!---
 ### Frontend & UI
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -55,6 +56,7 @@ const Tejesh = {
 </div>
 
 # 🛠️ Weekend SaaS Stack
+--->
 <div align="center">
 
 ### Rapid Prototyping
@@ -89,6 +91,11 @@ JavaScript   32 mins         ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 ```
 -->
 <!--END_SECTION:waka-->
+
+<div align="center">
+  <h3> Thanks for visiting! </h3>
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
+</div>
 
 ---
 
