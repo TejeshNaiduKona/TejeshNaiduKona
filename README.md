@@ -92,17 +92,15 @@ JavaScript   32 mins         ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 -->
 <!--END_SECTION:waka-->
 
-<div align="center">
-  <h3> Thanks for visiting! </h3>
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
-</div>
 
----
-
-### 📬️ Let's connect::
+## 📬️ Let's connect::
 
 <a href="https://www.linkedin.com/in/ktejeshnaidu/" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" alt="ktejeshnaidu" height="40" width="40"></a>
 <a href="https://www.x.com/ktejeshnaidu/" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=phOKFKYpe00C&format=png&color=FFFFFF" alt="ktejeshnaidu" height="40" width="40"></a>
 
 
+<div align="center">
+  <h3> Thanks for visiting! </h3>
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
+</div>
 
