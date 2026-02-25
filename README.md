@@ -22,10 +22,11 @@ You can click the Preview link to take a look at your changes.
 
 ## About Me
 ```typescript
-const Tejesh = {
-  role: "Computer Science ",
+const developer = {
+  name: "Tejesh Naidu",
   focus: "Full Stack Development",
-  passion: "Contribute Open Source and build tiny startups"
+  passion: "Building innovative solutions",
+  status: "Available for opportunities"
 };
 ```
 
@@ -72,7 +73,7 @@ const Tejesh = {
 <h3>My Languages and Tools:</h3>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,nextjs,react,figma,git,jest,nodejs,postgres,postman,py,tailwind,vscode,visualstudio,vercel,vite,supabase,styledcomponents,prisma,powershell,planetscale,mysql,md,firebase,express,emotion,electron,cloudflare,docker,npm,pnpm"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,nextjs,react,figma,git,jest,nodejs,postgres,postman,py,tailwind,vscode,visualstudio,vercel,supabase,powershell,planetscale,mysql,md,firebase,express,electron,cloudflare,docker,npm"/>
 </p>
 
 <!--
