@@ -73,7 +73,7 @@ const developer = {
 <h3>My Languages and Tools:</h3>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,nextjs,react,figma,git,jest,nodejs,postgres,postman,py,tailwind,vscode,visualstudio,vercel,supabase,powershell,planetscale,mysql,md,firebase,express,electron,cloudflare,docker,npm"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,nextjs,react,py,pytorch,opencv,tensorflow,git,linux,dart,flutter,nodejs,tailwind,vscode,visualstudio,vercel,supabase,powershell,mysql,md,firebase,express,electron,cloudflare,docker,npm,figma"/>
 </p>
 
 <!--
